@@ -309,6 +309,7 @@ header{
         grid-area: img;
         position:relative;
         z-index: 2;
+        height: auto;
     }
     .section__title--about{
         grid-area: title;
@@ -366,6 +367,8 @@ header{
         grid-area:img;
         max-width: 100%;
         padding-right: 0.5em;
+        position: relative;
+        height: 70%;
     }
     .hobby2{
         text-align: left;
@@ -381,6 +384,8 @@ header{
         grid-area:img;
         max-width:100%;
         padding-right: 0.5em;
+        position: relative;
+        height: 70%;
     }
 }
 
